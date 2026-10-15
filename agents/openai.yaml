@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thesis-Helper"
+  short_description: "Build thesis structures and chapter 3 analysis plans"
+  default_prompt: "Use $thesis-helper to build a thesis outline, methods chapter, chapter 3 tables, and R-analysis prompt from my proposal and data."
